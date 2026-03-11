@@ -1,7 +1,7 @@
 {
-    "name": "@yumenative/baileys",
+    "name": "@rsembilaneks/baileys",
     "version": "2.0.3",
-    "description": "WhatsApp API",
+    "description": "WhatsApp API Modified By DitciiX7",
     "keywords": [
         "whatsapp",
         "laurine-wabot",
@@ -17,7 +17,7 @@
         "url": "https://github.com/rsembilaneks-xyz/Baileys"
     },
     "license": "MIT",
-    "author": "Adhiraj Singh",
+    "author": "DitciiX7",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
