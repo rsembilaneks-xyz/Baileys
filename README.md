@@ -58,31 +58,19 @@ Libraries used:
 
 Install directly from GitHub repository.
 
-npm install github:rsembilaneks-xyz/baileys
+npm install github:rsembilaneks-xyz/Baileys
 
 or using yarn
 
-yarn add github:rsembilaneks-xyz/baileys
+yarn add github:rsembilaneks-xyz/Baileys
 
 You can also add it manually in your package.json
 
-"@whiskeysockets/baileys": "github:rsembilaneks-xyz/baileys"
+"@whiskeysockets/baileys": "github:rsembilaneks-xyz/Baileys"
 
 Then run
 
 npm install
-
----
-
-🔗 Dependency
-
-This project uses a custom implementation of libsignal.
-
-Repository:
-
-https://github.com/rsembilaneks-xyz/libsignal-node
-
-This dependency provides encryption functions required by the WhatsApp multi-device protocol.
 
 ---
 
